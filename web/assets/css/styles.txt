@@ -1,0 +1,15 @@
+.chooseUserType {
+    display: none;
+}
+
+.driversFound {
+    /*display: none;*/
+}
+
+.requestAndPay {
+    /*display: none;*/
+}
+
+.driverInfo {
+    /*display: none;*/
+}

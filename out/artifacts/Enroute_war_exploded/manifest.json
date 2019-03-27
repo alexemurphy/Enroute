@@ -1,0 +1,18 @@
+{
+  "short_name": "Enroute",
+  "name": "Enroute",
+  "icons": [
+    {
+      "src": "/assets/img/android.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/img/androidsplash.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "mapMainPage.jsp",
+  "display": "fullscreen"
+}

@@ -1,0 +1,16 @@
+.center {
+  display: block;
+}
+
+textarea:focus, input:focus {
+  outline: none;
+}
+
+button:focus {
+  outline: 0;
+}
+
+::placeholder{
+  color: lightgrey;
+}
+
